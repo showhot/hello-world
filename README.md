@@ -1,2 +1,4 @@
 # hello-world
 my first step on github 第一步
+hi humans,there are my first step on github.
+I wandered that github was so useful why we dont try it right now.
